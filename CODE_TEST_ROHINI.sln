@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CODE_TEST_ROHINI", "CODE_TEST_ROHINI\CODE_TEST_ROHINI.csproj", "{8DD2819A-7CFF-441E-B9D5-1F06DCA8F122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{060F4C4C-FB08-439E-9A34-A6DBA857816B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD2819A-7CFF-441E-B9D5-1F06DCA8F122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD2819A-7CFF-441E-B9D5-1F06DCA8F122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD2819A-7CFF-441E-B9D5-1F06DCA8F122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD2819A-7CFF-441E-B9D5-1F06DCA8F122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060F4C4C-FB08-439E-9A34-A6DBA857816B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F4C4C-FB08-439E-9A34-A6DBA857816B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F4C4C-FB08-439E-9A34-A6DBA857816B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F4C4C-FB08-439E-9A34-A6DBA857816B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
